@@ -1,2 +1,2 @@
 # CadastroClienteTeste
-Um cadastro de cliente com as opções de Inserir, Alterar, Pesquisar e Excluir. Ainda tem algumas coisas para ser ajustadas. 
+Desafio de um cadastro de cliente com as opções de Inserir, Alterar, Pesquisar e Excluir. Ainda tem algumas coisas para ser ajustadas. 
